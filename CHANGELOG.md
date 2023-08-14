@@ -1,5 +1,12 @@
 # Change Log
 
+## 0.6.1 - 2022-03-21
+
+### Changed
+
+- Watcher can handle multiple input files
+- Bumps npm dependencies
+
 
 ## 0.5.1 - 2017-01-16
 
