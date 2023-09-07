@@ -1,6 +1,6 @@
 # node-sass-watcher
 
-SCSS watcher with post-processing.
+SCSS watcher with post-processing. Fork of https://github.com/kottenator/node-sass-watcher.
 
 ## Why?
 

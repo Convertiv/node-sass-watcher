@@ -1,12 +1,12 @@
 {
   "author": {
-    "name": "kottenator"
+    "name": "kottenator, Convertiv"
   },
   "bin": {
     "node-sass-watcher": "bin/node-sass-watcher"
   },
   "bugs": {
-    "url": "https://github.com/kottenator/node-sass-watcher/issues"
+    "url": "https://github.com/Convertiv/node-sass-watcher/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -20,7 +20,7 @@
   "devDependencies": {
     "mocha": "^9.1.3"
   },
-  "homepage": "https://github.com/kottenator/node-sass-watcher#readme",
+  "homepage": "https://github.com/Convertiv/node-sass-watcher#readme",
   "keywords": [
     "node",
     "sass",
@@ -29,13 +29,13 @@
   ],
   "license": "MIT",
   "main": "lib/watcher.js",
-  "name": "node-sass-watcher",
+  "name": "@runforest/node-sass-watcher",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kottenator/node-sass-watcher.git"
+    "url": "git+https://github.com/Convertiv/node-sass-watcher"
   },
   "scripts": {
     "test": "mocha --exit"
   },
-  "version": "0.6.1"
+  "version": "0.6.2"
 }
